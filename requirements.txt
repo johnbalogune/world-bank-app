@@ -1,0 +1,4 @@
+dash
+pandas
+dash-bootsrap-components
+panads-datareader
